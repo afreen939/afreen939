@@ -1,103 +1,183 @@
-# Hi, I'm Afreen 👋
+<div align="center">
 
-### BCA Student | Aspiring Developer | Data & Technology Enthusiast
+# 👋 Hey, I'm Afreen
 
-I'm a BCA student passionate about learning technology, building practical projects, and continuously improving my programming and problem-solving skills.
+### 💻 BCA Student • Aspiring Developer • Data & Technology Enthusiast
 
-I enjoy turning what I learn into small projects and exploring areas such as **Web Development, Python, Data Analytics, SQL, and Artificial Intelligence**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Learning+Python+%26+JavaScript+%F0%9F%90%8D;Exploring+Data+%26+AI+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<p>
+  <a href="https://github.com/afreen939">
+    <img src="https://img.shields.io/github/followers/afreen939?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=afreen939&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
-## 👩‍💻 About Me
-
-* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-* 💻 Interested in **Web Development, Data & Technology**
-* 🌱 Currently learning **JavaScript, Python, SQL and Data Analytics**
-* 🛠️ Building projects to strengthen my practical skills
-* 📚 Exploring **Artificial Intelligence and Machine Learning**
-* 💼 Completed practical web development tasks through an internship
-* 🎯 Goal: Build strong technical skills and start my professional career in the technology field
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-### Programming & Web
+I'm **Afreen**, a BCA student who enjoys learning technology by building practical projects.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+I'm currently developing my skills in **web development, programming, databases, data analytics, and artificial intelligence**. I believe the best way to learn technology is to understand the fundamentals, build projects, make mistakes, and keep improving.
 
-### Data & Tools
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+* 🎓 BCA Student — 2024–2027
+* 💻 Interested in Web Development & Software Development
+* 📊 Exploring Data Analytics & SQL
+* 🤖 Learning about Artificial Intelligence
+* 🐍 Practicing Python
+* 🌐 Building projects with HTML, CSS & JavaScript
+* 🔧 Using Git & GitHub for project development
+* 📚 Always learning something new
 
 ---
 
-## 🚀 Projects
+## 🚀 My Tech Stack
+
+<div align="center">
+
+### 💻 Programming & Web Development
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+### 🗄️ Data & Development Tools
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+| Technology         | Focus                              |
+| ------------------ | ---------------------------------- |
+| 🟨 JavaScript      | Programming & Web Interactivity    |
+| 🐍 Python          | Programming & Problem Solving      |
+| 🗄️ SQL            | Databases & Data Queries           |
+| 📊 Data Analytics  | Data Understanding & Visualization |
+| 🤖 AI              | AI Fundamentals & Applications     |
+| 🌐 Web Development | Responsive & Interactive Websites  |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/afreen939/next-gen-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=afreen939&repo=next-gen-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/afreen939/next-gen-interactive-quiz">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=afreen939&repo=next-gen-interactive-quiz&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ### 🌐 Personal Portfolio
 
-A responsive personal portfolio website created to showcase my skills, education, projects, and contact information.
+A responsive personal portfolio website created to showcase my:
 
-**Technologies:** HTML, CSS, JavaScript
+* Skills
+* Education
+* Projects
+* Contact information
+* GitHub profile
 
-🔗 [View Repository](https://github.com/afreen939/next-gen-portfolio)
+**Tech:** HTML • CSS • JavaScript
+
+🔗 **[View Project →](https://github.com/afreen939/next-gen-portfolio)**
 
 ---
 
 ### 🧠 Interactive Quiz
 
-A web-based interactive quiz application containing multiple-choice questions, score calculation, and a restart option.
+A browser-based interactive quiz application featuring:
 
-**Technologies:** HTML, CSS, JavaScript
+* Multiple-choice questions
+* Score calculation
+* Final result
+* Restart functionality
+* Responsive interface
 
-🔗 [View Repository](https://github.com/afreen939/next-gen-interactive-quiz)
+**Tech:** HTML • CSS • JavaScript
+
+🔗 **[View Project →](https://github.com/afreen939/next-gen-interactive-quiz)**
 
 ---
 
 ### 🌦️ Weather Application
 
-A weather application built to retrieve and display weather information using a weather API.
+A weather application designed to retrieve weather information using a weather API.
 
-**Technologies:** HTML, CSS, JavaScript, API
+**Tech:** HTML • CSS • JavaScript • API
 
 ---
 
-### 📚 HEXANOVA — Learning Platform
+### 📚 HEXANOVA
 
-A learning-platform project concept focused on helping beginners learn programming through explanations, notes, videos, and practice.
+A learning-platform project concept designed to help beginners learn programming through:
+
+* 📖 Notes
+* 🎥 Learning videos
+* 💻 Programming practice
+* 📚 Course-based learning
 
 **Status:** 🚧 In Progress
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 ### Web Development Internship
 
 **Next Gen Software Hub Pvt. Ltd. — 2026**
 
-Worked on practical web-development tasks involving:
+Worked on practical web-development projects involving:
 
-* Responsive website development
-* HTML and CSS
-* JavaScript functionality
+* HTML
+* CSS
+* JavaScript
+* Responsive design
 * Interactive web applications
-* Git and GitHub
-* Project documentation and deployment workflow
+* Git & GitHub
+* Project documentation
 
 ---
 
-## 🏆 Certification
+# 🏆 Certification
 
 ### IBM SkillsBuild — AI Literacy
 
-Learned fundamental concepts related to:
+Explored fundamental concepts including:
 
 * Artificial Intelligence
 * Machine Learning
@@ -108,54 +188,102 @@ Learned fundamental concepts related to:
 * Predictive AI
 * Prompt Engineering
 * Trustworthy AI
-* AI careers and applications
+* AI career opportunities
 
 ---
 
-## 📖 Currently Learning
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=afreen939&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreen939&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=afreen939&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=afreen939&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afreen939&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer Applications — BCA
+
+**Pragnya Women's Degree College, Chandanagar**
+
+📅 2024 – 2027
+
+---
+
+# 🎯 My Goals
 
 ```text
-JavaScript
-Python
-SQL & Databases
-Data Analytics
-Web Development
-Artificial Intelligence
-Git & GitHub
+Learn → Practice → Build → Share → Improve
 ```
 
----
+My current focus is to:
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-Pragnya Women's Degree College, Chandanagar
-2024 – 2027
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afreen939&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreen939&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+* 🚀 Build more practical projects
+* 💻 Strengthen programming fundamentals
+* 🌐 Improve web development skills
+* 📊 Develop data and SQL skills
+* 🤖 Understand AI technologies
+* 🧩 Improve problem-solving
+* 💼 Prepare for my first professional role
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/afreen/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/afreen939">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/afreen/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/afreen939">
+<img src="https://img.shields.io/badge/GitHub-afreen939-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 💡 "Learn. Build. Improve. Repeat."
+<div align="center">
 
-Thanks for visiting my profile! 🌱
+### 💙 Thanks for visiting my profile!
+
+**"Learn. Build. Improve. Repeat."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
